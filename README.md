@@ -1,1 +1,1 @@
-# Data-Science-Intern---APSSDC
+This Repo consists of Notebooks practiced during APSSDC Training.
